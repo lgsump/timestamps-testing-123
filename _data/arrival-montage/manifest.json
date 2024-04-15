@@ -23,6 +23,112 @@
         "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/canvas",
         "type": "Canvas",
         "duration": 150,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-dialogue.json",
+            "label": {
+              "none": ["Dialogue"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-3.json",
+            "label": {
+              "none": ["Time scene 3"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-4.json",
+            "label": {
+              "none": ["Time scene 4"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-dialogue--narration.json",
+            "label": {
+              "none": ["Dialogue, Narration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-8.json",
+            "label": {
+              "none": ["Time scene 8"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-6.json",
+            "label": {
+              "none": ["Time scene 6"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-5.json",
+            "label": {
+              "none": ["Time scene 5"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-9.json",
+            "label": {
+              "none": ["Time scene 9"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-2.json",
+            "label": {
+              "none": ["Time scene 2"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-score.json",
+            "label": {
+              "none": ["Score"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-1.json",
+            "label": {
+              "none": ["Time scene 1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-general-commentary.json",
+            "label": {
+              "none": ["General Commentary"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-7.json",
+            "label": {
+              "none": ["Time scene 7"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/paintings",

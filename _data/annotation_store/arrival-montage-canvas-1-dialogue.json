@@ -1,0 +1,194 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-dialogue.json",
+  "type": "AnnotationPage",
+  "label": "Dialogue",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-montage-canvas-1-dialogue-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She looked to the nurse who had taken her daughter to check on her and playfully but sternly said, \"Okay... Come back to me. Come back to me. Come back to me.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "53,60"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-montage-canvas-1-dialogue-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Her middle childhood daughter while pointing her hands as if they were guns, dressed up in Wild West gear commands, \"Stick 'em up!\" This is within the roleplay, so she is threatening Louise's character to put her hands in the air if she doesn't comply with her commands.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "61,62"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-montage-canvas-1-dialogue-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Louise's character replies, \"Are you the sheriff in this here town,\" while not complying with her daughter's character's commands. Her daughter backs up and giggles. Louise starts to transform her finger-guns into clasps in a pinch-like action. Louise's character continues saying, \"These are my tickle guns, and I'm gonna getcha!\" Her daughter's character continues to giggle and defiantly respond by shaking her head and faintly replying, \"No!\" Louise's character, in response to the lack of compliance, exclaims, \"You want me to chase you?\" all while still in her Western voice. She continues in her normal voice, \"You better run!\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "63,75"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-montage-canvas-1-dialogue-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She starts wiggling all of her fingers, seemingly as her final warning in her promise to tickle her daughter's character. The daughter's character screams and starts to move around on her stick-horse, and the movement startles Louise so she lets out a faint, \"Oh!\" They seem to be in a stand-off, staring the other down in a slow-moving circle. Louise seems to be taking a break, sitting down and watching as her daughter continues to run around, bells clanging and galloping on her stick-horse.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "76,89"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-montage-canvas-1-dialogue-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Louise's daughter, looking directly in sentimental eye contact with her, unpromptedly exclaims, \"I love you,\" in a tender voice. In the next time-scene, it juxtaposes the tender 'I love you' in the previous scene with Louise's daughter angrily shouting, \"I hate you!\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "100,105"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-montage-canvas-1-dialogue-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She murmurs close to her daughter's face, saying, \"Come back to me. Baby, come back to me,\" while crying.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "127,131"
+        }
+      }
+    }
+  ]
+}

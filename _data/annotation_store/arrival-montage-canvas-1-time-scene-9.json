@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/timestamps-testing-123/annotations/arrival-montage-canvas-1-time-scene-9.json",
+  "type": "AnnotationPage",
+  "label": "Time scene 9",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-montage-canvas-1-time-scene-9-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now we see Louise walking the halls of the hospital somberly, as the lights begin to fade again. The end of this scene enters the film into a much more familiar timeline in films.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/timestamps-testing-123/arrival-montage/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138,150"
+        }
+      }
+    }
+  ]
+}
